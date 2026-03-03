@@ -1,0 +1,15 @@
+a {
+    background-color: dodgerblue;
+    color: azure;
+    display: inline-block;
+    padding: 5px;
+    width: 100px;
+    text-align: center;
+    border-radius: 10%;
+}
+ 
+a:hover{
+    background-color: rgb(220, 255, 236);
+    color: blue;
+    outline: 1px solid rgb(7, 56, 216);
+}
